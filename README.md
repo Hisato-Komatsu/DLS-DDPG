@@ -17,10 +17,10 @@ This code was influenced by multiple open-source implementations, including:
 
 In particular, the function `memory_sample` is based on the following implementation:
 
-https://qiita.com/Rowing0914/items/eeba790401bcaf2c723c
+- https://qiita.com/Rowing0914/items/eeba790401bcaf2c723c
 
 and the soft target update is implemented based on the following code:
 
-https://github.com/ghliu/pytorch-ddpg (Apache-2.0 license)
+- https://github.com/ghliu/pytorch-ddpg (Apache-2.0 license)
 
 We sincerely appreciate the contributions of the original authors and acknowledge their impact on this work.
