@@ -10,7 +10,7 @@ scipy                1.14.1 <br>
 torch                2.5.0+cpu <br>
 
 # credits
-[Added on 2025-08-10 to increase transparency.]
+[Added on 2025-07-31 to increase transparency.]
 This code was influenced by multiple open-source implementations, including:
 
 - https://github.com/seolhokim/Mujoco-Pytorch (MIT license)
